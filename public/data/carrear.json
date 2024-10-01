@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "jobTitle": "Software Engineer",
+      "company": "Tech Solutions",
+      "location": "San Francisco, CA",
+      "salary": "$120,000",
+      "employmentType": "Full-time",
+      "skillsRequired": ["JavaScript", "React", "Node.js"],
+      "postedDate": "2024-09-15",
+      "image": "public/cImage/images.jpeg"
+    },
+    {
+      "id": 2,
+      "jobTitle": "Data Scientist",
+      "company": "Data Innovations",
+      "location": "New York, NY",
+      "salary": "$110,000",
+      "employmentType": "Full-time",
+      "skillsRequired": ["Python", "Machine Learning", "Data Analysis"],
+      "postedDate": "2024-09-20",
+      "image": "https://img.freepik.com/free-vector/process-optimization-concept-idea-business-improvement-development-company-data-analysis-effective-entrepreneurship-organization-isolated-flat-vector-illustration_613284-3337.jpg?t=st=1727757053~exp=1727760653~hmac=ec70b76cc1e552ebf7b97935d10619a21d4fea2ac8da285e9b29cfdea4f256cc&w=1380"
+    },
+    {
+      "id": 3,
+      "jobTitle": "Project Manager",
+      "company": "Business Corp",
+      "location": "Austin, TX",
+      "salary": "$95,000",
+      "employmentType": "Contract",
+      "skillsRequired": ["Agile", "Scrum", "Communication"],
+      "postedDate": "2024-09-18",
+      "image": "https://img.freepik.com/free-photo/succesful-business-man-presenting-good-evolution-company-using-digital-tablet_482257-5117.jpg?t=st=1727757126~exp=1727760726~hmac=90e3a8b2f43c7ad32043a30096563bffddbee6ab3b43b620d25ef9ebc116d772&w=1380"
+    },
+    {
+      "id": 4,
+      "jobTitle": "UX Designer",
+      "company": "Creative Studio",
+      "location": "Remote",
+      "salary": "$85,000",
+      "employmentType": "Part-time",
+      "skillsRequired": ["Figma", "Sketch", "User Research"],
+      "postedDate": "2024-09-25",
+      "image": "https://img.freepik.com/free-vector/ux-ui-typographic-header-app-interface-improvement-user-interface-design-user-experience-development-modern-technology-concept-flat-vector-illustration_613284-1484.jpg?t=st=1727756605~exp=1727760205~hmac=65fb921972ed5937218413ea2aeeedaf29e8a5f244447b9d89ec0a2c5b4bc186&w=1480"
+    },
+    {
+      "id": 5,
+      "jobTitle": "DevOps Engineer",
+      "company": "Cloudify",
+      "location": "Seattle, WA",
+      "salary": "$130,000",
+      "employmentType": "Full-time",
+      "skillsRequired": ["AWS", "Kubernetes", "CI/CD"],
+      "postedDate": "2024-09-22",
+      "image": "https://img.freepik.com/free-vector/isometric-devops-illustration_52683-84175.jpg?ga=GA1.1.2063321866.1724634020&semt=ais_hybrid"
+    }
+  ]
+  
