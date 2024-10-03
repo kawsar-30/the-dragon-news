@@ -9,7 +9,7 @@ const Carrear = () => {
     const [jobs, setJobs] = useState([]);
 
     useEffect(() => {
-        fetch('public/data/carrear.json')
+        fetch('data/carrear.json')
             .then(resp => resp.json())
             .then(data => setJobs(data));
     }, []);
