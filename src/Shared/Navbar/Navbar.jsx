@@ -39,7 +39,7 @@ const Navbar = () => {
 
   return (
     <div className="navbar sticky top-0 bg-base-100">
-      <div className="navbar-start">
+      <div className="navbar-start ">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
             <svg
@@ -73,7 +73,7 @@ const Navbar = () => {
         </div>
       </div>
 
-      <div className="navbar-center hidden lg:flex">
+      <div className="navbar-center sticky top-0 hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
           {links}
         </ul>
